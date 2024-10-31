@@ -14,5 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### Hosted Website : https://student-management-v01.vercel.app
+
+### Screen shot
+![Screenshot from 2024-10-31 12-20-14](https://github.com/user-attachments/assets/39a14fff-2b6a-44b0-893b-d5301acd608d)
+
+
 
 
